@@ -9,7 +9,7 @@ git remote -v   Displays the URL of the repository
 touch hello.txt     Makes a new file
 git status      Shows the status of things
 git add hello.txt   Adds the file to the statiging area in Git.    
-git commit  -m "Add hello.txt"      Add the commit to 
+git commit  -m "Add hello.txt"      Add the commit with a message
 git log           Logs the commit into git
 git push
 git push origin main        Push all the commits to github
